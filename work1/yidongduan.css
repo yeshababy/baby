@@ -1,0 +1,416 @@
+.headerBox{
+    width: 100%;
+    height: 0.88rem;
+    border-bottom: 0.01rem solid #f1eded;
+}
+.headerClose{
+    float: left;
+}
+.headerClose img{
+    width: 0.28rem;
+    height: 0.3rem;
+    margin-top: 0.29rem;
+}
+.headerLogo img {
+    width: 0.9rem;
+    height: 0.3rem;
+    margin-top: 0.29rem;
+    margin-left: 2.7rem;
+}
+.headerLogo{
+    float: left;
+}
+.headerMore ul li{
+    width: 0.08rem;
+    height: 0.08rem;
+    margin-left: 0.06rem;
+    float: right;
+    background: black;
+    border-radius: 50%;
+    margin-top: 0.4rem;
+
+}
+.headerMore{
+
+}
+.content{
+    width: 7.02rem;
+    margin: 0 auto;
+
+}
+/*00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000*/
+.daohang ul li{
+    height: 0.8rem;
+    width: 1.01rem;
+    float: left;
+    line-height: 0.8rem;
+
+
+}
+.daohang ul li a{
+    font-size: 0.24rem;
+    color: rgba(0,0,0,0.7);
+}
+.bianju{
+    margin-left: 0.99rem;
+}
+.bannerT img{
+    width: 7.5rem;
+    height: 3.84rem;
+}
+.bannerTm ul li{
+    width: 0.07rem;
+    height: 0.07rem;
+    /*background-color:blue;*/
+    /*opacity:0.2;*/
+    border: 0.01rem solid white;
+    float: left;
+    margin-left: 0.33rem;
+    border-radius: 50%;
+}
+.bannerTm ul li:hover{
+    background-color: white;
+}
+.bannerTm {
+    position: absolute;
+    top: 5.2rem;
+    right: 3.4rem;
+
+}
+.New{
+    width:1.49rem ;
+    height: 0.91rem;
+    margin-bottom: 0.6rem;
+
+
+
+}
+.New P{
+    font-size: 0.18rem;
+}
+.New span{
+    font-size: 0.32rem;
+}
+.xia{
+    width: 100%;
+    background: #f6f6f6;
+    margin-top: -0.08rem;
+    padding-top: 0.6rem;
+}
+.Newshang{
+    width: 0.49rem;
+    height: 0.08rem;
+    border-top:0.02rem solid #ffcb3f ;
+}
+.NewZ{
+    width: 1.48rem;
+    height: 0.06rem;
+    border-top:0.02rem solid #d7d7d7;
+
+
+}
+.shoufa{
+    margin-left: 0.1rem;
+    color: #ffcb3f;
+}
+.NewX{
+    width: 0.34rem;
+    height: 0.16rem;
+    margin: 0 auto;
+    border-bottom: 0.02rem solid black;
+}
+.shafa{
+    height: 6.93rem;
+    background: white;
+}
+.shafa img{
+    width: 6.25rem;
+    height: 2.62rem;
+    margin-top: 1.12rem;
+    margin-left: 0.4rem;
+    margin-bottom: 0.6rem;
+}
+.mianma p{
+    font-size: 0.31rem;
+}
+.mianma span{
+    font-size: 0.20rem;
+}
+.mianma{
+    width: 5.63rem;
+    height: 1.7rem;
+    margin-left: 0.6rem;
+    /*background: #ffcb3f;*/
+}
+.jiage{
+    margin-left: 0.6rem;
+}
+.jiage i{
+    color: #fdcc4d;
+    font-size: 0.28rem;
+    margin-left: 0.3rem;
+}
+.jiag1{
+    font-size: 0.3rem;
+}
+.jiage2{
+    font-size: 0.18rem;
+}
+.xiaoyuan{
+    width: 0.16rem;
+    height: 0.16rem;
+    border-radius: 50%;
+    background: #abe3e6;
+    margin-left: 0.08rem;
+
+}
+.dayuan{
+    width: 0.21rem;
+    height: 0.21rem;
+    border-radius: 50%;
+    background: #cecdca;
+    margin:0.24rem 0.05rem;
+
+}
+.yuan{
+    float: right;
+    /*background: #b0b0b0;*/
+}
+.jiage1{
+    font-size: 0.30rem;
+    font-weight: 800;
+}
+.jiage2{
+    font-size: 0.18rem;
+}
+.yizi ul li{
+    width: 2.93rem;
+    height: 4.16rem;
+    background: white;
+    margin-top: 0.24rem;
+    padding-top: 0.19rem;
+    padding-left: 0.45rem;
+}
+.zuo{
+    float: left;
+}
+.you{
+    float: right;
+}
+.yizi{
+    overflow: hidden;
+}
+.yizi ul li span{
+    font-size: 0.18rem;
+}
+.yizi ul li p{
+    font-size: 0.26rem;
+    margin-top: 0.14rem;
+    font-weight: 800;
+}
+.yizi ul li img{
+    margin-top: 0.48rem;
+    width: 1.8rem;
+    height: 1.62rem;
+}
+.zong{
+    margin-right: 0.25rem;
+    margin-top: 1.7rem;
+}
+.quan{
+    line-height: 0.25rem;
+    margin-top: 0.4rem;
+}
+.quan i{
+    color: #ffcb3f;
+}
+.quan .jiage span{
+    font-size: 0.16rem;
+}
+.jiageyi b{
+
+}
+#cu .quan .jiage1{
+    font-weight: 800;
+    font-size: 0.3rem;
+}
+.biaoqian ul li{
+    width: 1.875rem;
+    height: 0.98rem;
+    background: #fafafa;
+    float: left;
+    text-align: center;
+    padding-top: 0.1rem;
+}
+.biaoqian ul li i{
+    font-size: 0.4rem;
+}
+#kong{
+    height: 0.15rem;
+
+}
+.biaoqian ul li h2{
+    font-size: 0.2rem;
+}
+.biaoqian{
+    position: fixed;
+    bottom: 0;
+    z-index: 99;
+}
+.biaoqian .feile a{
+    color: #757575;
+}
+.biaoqian .gouwuche a{
+    color: #757575;
+}
+.biaoqian .wodew a{
+    color: #757575;
+}
+.biaoqian .wodew a i{
+    font-weight: ;
+}
+.neibianj{
+    margin-bottom: 0.8rem;
+}
+.feil a{
+    color: #757575;
+]}
+/*000000000000000000000000000000000000000000000000000000000000000000000000000000*/
+.luntu .HOT{
+    position: absolute;
+    top: 0;
+    background: none;
+    width: 0.45rem;
+    height: 0.45rem;
+}
+.luntu .HOT img{
+    width: 100%;
+    height: auto;
+}
+.luntu{
+    width: 100%;
+    display: flex;
+    overflow: hidden;
+    margin-bottom: 0.3rem;
+    position: relative;
+}
+.luntu div img{
+    width: 3.09rem;
+    height: 2.89rem;
+}
+.luntu div{
+    width: 3.09rem;
+    height: 5.11rem;
+    background: white;
+    flex-shrink: 0;
+    margin-left: 0.24rem;
+}
+.luntu div .lunZ{
+    width: 2.73rem;
+    height:1.8rem;
+    margin: 0;
+    /*background: #ffcb3f;*/
+    margin-left: 0.14rem;
+    position: relative;
+}
+.luntu div .lunZ .shangbian{
+    width: 0.27rem;
+    height: 0.01rem;
+    border-top:0.01rem solid #ffcb3f;
+    margin: 0;
+}
+.luntu div .lunZ p{
+    font-size: 0.24rem;
+    font-weight: 600;
+}
+.luntu div .lunZ span{
+    font-size: 0.12rem;
+
+}
+.luntu div .lunZ h1{
+    font-size: 0.26rem;
+    font-weight: 800;
+    position:absolute;
+    bottom: 0.03rem;
+}
+.luntu div .lunZ .goumai{
+    width: 1.52rem;
+    height: 0.43rem;
+    background-color: #ffcb3f;
+    border-radius: 10%;
+    margin: 0;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    text-align: center;
+    color: white;
+    /*transition: all 2s;*/
+}
+.luntu div .lunZ .rmb{
+    position:absolute;
+    bottom: 0.06rem;
+    left: 0.6rem;
+}
+.luntu div .lunZ .goumai i{
+    font-size: 0.17rem;
+}
+.luntu div .lunZ .goumai span{
+    font-size:0.22rem ;
+}
+/*.luntu div .lunZ .goumai:hover{*/
+/*    transform: translate(100px 100px);*/
+/*}*/
+.datu img{
+    width: 7.02rem;
+    height: 4.38rem;
+}
+.haoduozi{
+    width:6.6rem;
+    height: 3.16rem;
+    text-align: center;
+
+}
+.datu .bofang{
+    width: 0.97rem;
+    height: 0.97rem;
+    background-color:rgba(0,0,0,0.4);
+    /*opacity: 0.5;*/
+    border-radius: 50%;
+    position: absolute;
+    top: 1.8rem;
+    left: 3rem;
+    text-align: center;
+    line-height: 0.97rem;
+    color: white;
+
+}
+.datu{
+    position: relative;
+
+}
+.haoduozi span{
+    font-size: 0.24rem;
+}
+.haoduozi p{
+    font-size: 0.28rem;
+    font-weight: 600;
+}
+.haoduozi .liaojie{
+    width: 1.4rem;
+    height: 0.6rem;
+    border-radius: 0.3rem;
+    border: 0.01rem solid #fad26b;
+    margin:auto;
+    margin-top: 0.5rem;
+
+}
+.haoduozi .liaojie p{
+    font-size: 0.18rem;
+    line-height: 0.6rem;
+}
+.zuihou{
+    margin-top: 0.7rem;
+}
+.zuihouyizhang{
+    margin-bottom: 1rem;
+}

@@ -1,0 +1,15 @@
+.kuang:hover{
+transform: scale(1.5);
+    transition:all 1s;
+
+
+}
+.kuang{
+    height: 140px;
+    width: 150px;
+ overflow: hidden;
+    margin: 0 auto;
+}
+.kuang {
+    background-image: linear-gradient(red,blue);
+}

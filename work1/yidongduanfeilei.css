@@ -1,0 +1,207 @@
+.headerBox{
+    width: 100%;
+    height: 0.88rem;
+    border-bottom: 0.01rem solid #f1eded;
+}
+.headerClose{
+    float: left;
+}
+.headerClose img{
+    width: 0.28rem;
+    height: 0.3rem;
+    margin-top: 0.29rem;
+}
+.headerLogo img {
+    width: 0.9rem;
+    height: 0.3rem;
+    margin-top: 0.29rem;
+    margin-left: 2.7rem;
+}
+.headerLogo{
+    float: left;
+}
+.headerMore ul li{
+    width: 0.08rem;
+    height: 0.08rem;
+    margin-left: 0.06rem;
+    float: right;
+    background: black;
+    border-radius: 50%;
+    margin-top: 0.4rem;
+
+}
+.content{
+    width: 7.02rem;
+    margin: 0 auto;
+
+}.biaoqian ul li{
+     width: 1.875rem;
+     height: 0.98rem;
+     background: #fafafa;
+     float: left;
+     text-align: center;
+     padding-top: 0.1rem;
+ }
+.biaoqian ul li i{
+    font-size: 0.4rem;
+
+}
+#huangde i{
+    background: #ffcb3f;
+
+}
+#huangde h2{
+    color: #ffcb3f;
+}
+#kong{
+    height: 0.15rem;
+
+}.biaoqian .icon-wode{
+    font-size: 0.5rem;
+    font-weight: bold;
+ }
+.biaoqian ul li h2{
+    font-size: 0.2rem;
+}
+.biaoqian{
+    position: fixed;
+    bottom: 0;
+}
+.biaoqian .shouye a{
+    color: #757575;
+}
+.biaoqian .gouwu a{
+    color: #757575;
+}
+.biaoqian .wode a{
+    color: #757575;
+}
+.sousuo{
+    height: 0.6rem;
+    width: 7.5rem;
+    padding: 0.13rem 0 0.13rem 0.24rem;
+     border-bottom: 0.01rem solid #ffcb3f;
+}
+
+.sousuoY{
+    height: 0.6rem;
+    width: 6.04rem;
+    border: 0.01rem solid #e5e5e5;
+    border-radius: 0.3rem;
+    margin-right: 0;
+    line-height: 0.6rem;
+    padding-left: 0.2rem;
+    position: relative;
+}
+.sousuoY input{
+    outline: none;
+    width: 5rem;
+    height: 0.3rem;
+    background-color: white;
+    border: 0;
+    font-size: 0.24rem;
+    position: absolute;
+    top: 0.12rem;
+    left: 0.5rem;
+}
+.sousuo p{
+    float: right;
+    margin-right: 0.4rem;
+    margin-top: -0.5rem;
+    font-size: 0.24rem;
+
+}
+.sousuoY span{
+    font-size: 0.24rem;
+    color: rgba(0,0,0,0.7);
+}
+.sousuoY i{
+    font-size: 0.24rem;
+}
+.liebiao div{
+    width: 2rem;
+    height: 1.01rem;
+    margin-bottom: 0.03rem;
+    background: #f7f7f7;
+    text-align: center;
+    line-height: 1.01rem;
+}
+.liebiao{
+    float: left;
+}
+.liebiao span{
+    font-size: 0.26rem;
+    font-weight: 600;
+
+}
+.liebiao .shejishi{
+    border-left: 0.11rem solid #ffcb3f;
+    width:1.89rem ;
+    background: #fcfcfc;
+
+}
+.banner img{
+    width:5.06rem;
+    height: 1.58rem;
+    float: right;
+}.banner{
+    margin-right: 0.24rem;
+ }
+ .jiuge{
+     float: right;
+     width: 5.06rem;
+     margin-right: 0.24rem;
+ }
+ .jiuge div{
+     width:1.5rem;
+     height:1.97rem;
+     margin-bottom: 0.24rem;
+
+ }
+ .jiuge .xinpin{
+     width: 5.06rem;
+     height: 0.6rem;
+     padding-top: 0.3rem;
+     float: left;
+ }
+ .jiuge .bashi{
+     width: 0.8rem;
+     height: 0.16rem;
+     border-bottom: 0.02rem solid #ffcb3f;
+     /*margin-left: 0.6rem;*/
+     float: left;
+ }
+#zuo1{
+   height: 0.35rem;
+    width: 3.34rem;
+    margin: 0 auto;
+}
+.jiuge .xinpin div p{
+    font-size: 0.3rem;
+}
+#xinpin{
+    /*font-size: 0.32rem;*/
+/*    margin-right: -0.3rem;*/
+/*    margin-left: 0.3rem;*/
+    float: left;
+    margin: 0 auto;
+    width: 1.33rem;
+    height: 0.32rem;
+
+}
+.you{
+    float: right;
+}
+.zuo{
+    float: left;
+    margin-right: 0.28rem;
+}
+.jiuge div img{
+    width: 1.5rem;
+    height: 1.45rem;
+}
+.jiuge div span{
+    margin-left: 0.2rem;
+    margin-top: 0.2rem;
+    font-size: 0.20rem;
+}

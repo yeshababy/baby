@@ -1,0 +1,41 @@
+.shaizi{
+    width: 100%;
+    height: 800px;
+    background: #373b4a;
+    display: flex;
+    justify-content: center;
+    flex-wrap:wrap ;
+    align-items: center;
+}
+.zong{
+
+}
+.shaizi div{
+    width: 160px;
+    height:160px ;
+    background-color: white;
+    border-radius:30%;
+    padding: 20px;
+
+}
+.yi{
+    display: flex;
+    justify-content: center;
+    flex-wrap:wrap ;
+    align-items: center;
+}
+.yi div{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #333333;
+
+}
+.er div{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #333333;
+
+}
+
